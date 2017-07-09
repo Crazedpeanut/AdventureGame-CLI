@@ -1,0 +1,11 @@
+{
+  "name": "adventure-game-cli",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "config": "^1.26.1",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
+  }
+}
